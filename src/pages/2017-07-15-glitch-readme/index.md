@@ -1,13 +1,20 @@
+---
+title: glitch.com README
+date: "2017-07-15T00:34:37.121Z"
+path: "/glitch-readme/"
+---
+
 glitch-gatsby-starter-blog
-==========================
+--------------------------
 
 [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) boilerplate running on glitch.com. 
 
 - visit demo: https://gatsby-starter-blog.glitch.me
 - look at source: https://glitch.com/edit/#!/gatsby-starter-blog
 - [remix on glitch](https://glitch.com/edit/#!/remix/gatsby-starter-blog) to get your own temporary, anonymous live copy of the app
+- fork repo: https://github.com/100ideas/glitch-gatsby-starter-blog
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/gatsby-starter-blog)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b/remix-button.svg)](https://glitch.com/edit/#!/remix/gatsby-starter-blog)
 
 #### Enabling HMR
 glitch by default restarts & reloads the app server on code edits. This prevents webpack Hot Module Replacement from working. To fix:
@@ -73,7 +80,7 @@ for getting images etc stored in the `assets` folder, I guess we need a `gatsby-
 
 **17-7-18**:
 
-- Consolidate content from github.com/gatsbyjs/gatsby/issues/1515 into README.
+- Consolidate content from https://github.com/gatsbyjs/gatsby/issues/1515 into README.
 - Add entry to https://github.com/gatsbyjs/gatsby/edit/master/docs/docs/gatsby-starters.md
 
 **17-7-12**:
