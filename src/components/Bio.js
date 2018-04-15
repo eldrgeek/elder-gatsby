@@ -10,7 +10,7 @@ import React from "react"
 // import "typeface-merriweather"
 
 
-import profilePic from "./profile-pic.jpg"
+import profilePic from "./carmageddon.png"
 import { rhythm } from "../utils/typography"
 
 class Bio extends React.Component {
@@ -34,14 +34,9 @@ class Bio extends React.Component {
         />
         Written by
         {" "}
-        <strong>Kyle Mathews</strong>
+        <strong>Mike Wolf</strong>
         <small><em> (& glitchified by <a href="https://twitter.com/100ideas" style={{color: "black"}}>@100ideas</a>)</em></small>
-        {" "}
-        who lives and works in San Francisco building useful things.
-        {" "}
-        <a href="https://twitter.com/kylemathews">
-          You should follow him on Twitter
-        </a>
+       
       </p>
     )
   }
