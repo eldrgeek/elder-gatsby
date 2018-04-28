@@ -1,7 +1,7 @@
 ---
-title: <some title>
-date: <some date>
-path: "/hello-world/"
+title: High productivity posting
+date: "2015-05-06T23:46:37.121Z"
+path: "/70years/high-productivity-posting/"
 ---
 
 
